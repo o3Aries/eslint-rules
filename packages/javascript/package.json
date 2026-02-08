@@ -1,5 +1,5 @@
 {
-	"name": "@0321aries/eslint-rules-javascript",
+	"name": "@o3aries/eslint-rules-javascript",
 	"version": "0.1.0-alpha.1",
 	"description": "Some javascript eslint rules that I frequently use.",
 	"type": "module",
