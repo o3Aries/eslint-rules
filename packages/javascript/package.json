@@ -29,5 +29,11 @@
 	"dependencies": {
 		"@eslint/js": "^10.0.1"
 	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/o3Aries/eslint-rules.git",
+		"directory": "packages/javascript"
+	},
+	"homepage": "https://github.com/o3Aries/eslint-rules",
 	"license": "MIT"
 }
