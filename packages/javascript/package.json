@@ -1,6 +1,6 @@
 {
 	"name": "@o3aries/eslint-rules-javascript",
-	"version": "0.1.0-alpha.2",
+	"version": "0.1.0-alpha.3",
 	"description": "Some javascript eslint rules that I frequently use.",
 	"type": "module",
 	"main": "./dist/index.js",
