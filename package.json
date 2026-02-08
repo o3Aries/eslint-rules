@@ -1,0 +1,16 @@
+{
+	"type": "module",
+	"private": true,
+	"workspaces": [
+		"packages/*"
+	],
+	"scripts": {
+		"dev": "tsx ./src/index.ts"
+	},
+	"devDependencies": {
+		"eslint": "^10.0.0",
+		"rimraf": "^6.1.2",
+		"tsx": "^4.21.0",
+		"typescript": "^5.9.3"
+	}
+}
